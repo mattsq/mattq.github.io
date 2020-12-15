@@ -1,0 +1,19 @@
+---
+title: "Matt Simmons"
+image: "matt_profile.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/mattrss"
+  - label: GitHub
+    url: "https://github.com/mattsq"
+  - label: Email
+    url: "mailto:matthewjosephsimmons@gmail.com"
+output:
+  postcards::jolla_blue
+---
+ 
+Data Scientist, people leader and #RStats enthusiast.
+Currently working at Qantas as Manger Operational Analytics.
+
