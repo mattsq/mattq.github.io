@@ -1,0 +1,114 @@
+---
+title: "IT’S ALL THE SONGS IN THE YEAR THAT WAS TWENTYNINETEEN AND ALL THE RAMBLING ABOUT THEM"
+description: |
+  2019 Best Of
+author:
+  - name: Matt Simmons
+    url: https://mattsq.github.io
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Because it's the end of the decade, I went back and read my old year-end lists: the intro is often a kind of desperate invocation of the apocalypse, of the end of things, of everything slipping away. But since our city is *literally ringed by fire* now, you'll forgive me one more tilt at that particular wheel. In any case, while we wait for the flames to consume all our old mistakes, here is a list of things. The house rules are in effect: the house always wins, I put whatever I want on here in an order whose significance is beyond understanding, nothing is complete and nothing ever ends, time is a flat circle, and all that. You know the drill - steel yourself and finish hosing the house walls, because we're about to get into it.
+
+**I is an Island** - *Mahawam*
+
+Here's a palette cleanser, courtesy of a friend (thanks Bodhi!) - a spiritual successor to Das Racist and Le1f, a smush of EDM and backpack rap which is also very funny ("I'm beginning to doubt my commitment to Sparkle Motion") It's not very long! You should get into it!
+
+**Two Hands/U.F.O.F.** - *Big Thief*
+
+Most of the time, I assume my musical taste is varyingly parallel to consensus - occasionally I approach it, but something so claustrophobic and personal like Big Thief I just assumed would zoom past general celebration. I'm wrong, apparently, and now they are a... big deal or something? This is a correct evaluation, but I'm still getting used to it. Capacity is still their best, and a more - forthright album, but these two (Two!! Full albums!! In one year!!) are very good Southern folk being sung to you by ghosts in a faraway broken-down cabin.
+
+**Losing** - *Bully*
+
+Yes, it's from 2017: so what!? I missed it then, but I'm not missing it now. I had a hole Charly Bliss was supposed to fill this year, but that band went and bought synthesisers, as the song goes, so now I have this. Throat-ragged guitar churning at exactly the right pitch. When I do my end-of-decade list I'll have a whole section on 'Female-led Having A Bad Time With Loud Guitars' genre, and this is a very good version of that. I'm very easy to please, just do that almost-dissonant thing with a guitar and I will show up every time.
+
+**Norman Fucking Rockwell!** - *Lana Del Rey*
+
+This one, on the other hand, I don't think I have to sell you on: or, at least, I don't have to sell you on the idea that people like this album, even if you don't particularly. Is it too long? Yes! Does it get kind of meander-y in parts? Absolutely yes it does! But Lana is still a darkly funny weapon when she's on one: a large dramatic swoon while winking at you personally. The trick is not taking it too seriously, and let yourself blow away on winds of overdone reverb and orchestral *vibe, man*.
+
+**Safe And Also No Fear** - *Slaughter Beach, Dog*
+
+In my own personal music universe, this is a (completely unintentional) companion record to John K Samson's Winter Wheat: a moody, personal and laconic roll into middle American life. I don't know what else to tell you to make to listen - if you're the audience for this, you may already be listening to it. Still, but still.
+
+**Patience** - *Mannequin Pussy*
+
+Also in the category of 'how did this become popular?', apparently this album is all over people's EOY lists, which is weird to me, a guy who added them after liking a song heard a few times on Spotify's 'songs like this' end-of-album rollover after a Can't Swim album. (I think.) But as Tulett put it, they have "that sound", which is indefinable but also definitely there. Another contender for "album that Charly Bliss could have made, but didn't", had they decided to go harder and darker, lacerating everyone around them and themselves. Also, 'Mannequin Pussy' really is up there with Tropical Fuck Storm in the annals of eyebrow-raisingly funny and rude band names. 
+
+**Father Of The Bride** - *Vampire Weekend*
+
+Remember Modern Vampires? Don't think too hard about it, it was terrible. For an objectively big band, it is a little weird that VW have released a total of three albums in the last 11 years, but Father of the Bride is the advance that they tried to make in 2013 and failed comprehensively to do: layering complexity and sadness into the bounce of their original sound without making it boring and mordant. Simply put, it is a banger. It is very good. Listen, and have a very good time.
+
+**My Finest Work Yet** - *Andrew Bird*
+
+A companion to FotB - like VW, Bird has also been making albums that are not that good for most of the 2010s (although he's been making a lot more of them.) Titling an album your 'Finest Work' is a big swing, which it turns out... Bird connects! This is unironically his finest work yet: consistent, cinematic and hooky without every getting dull or repetitive. All the Andrew Bird things are here (violin picking! Indie rock guitars! Twee lyrics!) but they're all correctly tuned, somehow, for the first time in years. I don't know what happened to make it all suddenly come back together again, but I'm glad it did.
+
+**RIOT ON THE GRILL** - *ELLEGARDEN*
+
+Guys: what if there was a Japanese Blink-182? And they were good? This album is from 2005, which is really testing my 'not specifically from this year' rule, but ELLEGARDEN (you have to capitalise it. No, I don't know why, but it's the best) is like finding a great set of Jimmy Eat World b-sides from their peak under the couch, hidden away where no one was looking for it.
+
+**S/T** - *Ex:Re*
+
+Ex:Re, on the other hand, does... not feel good. Ex:Re is the sonic equivalent of that squirmly pleasurable feeling of poking a still-healing scab, or obsessing over an old, bad memory. The album, a ten-song extension of the TV show Dark's title song that only I wanted, is a murky and awful hang in a sad hotel room thinking about every time your heart was broken, which is why I love it. Put it on, and stick your finger right on the middle part of the wound and feel it sting, metaphorically or otherwise.
+
+**End Of The F\*\*\*ing World S1 & S2 Soundtrack** - *Various Artists*
+
+EotFW is a high-powered motorcycle ride of a show - if you don't like what it's doing, in 20 minutes the show will be be doing something else in a different tone. It's powered partially by an inexplicably good soundtrack, which sneaks up there with Tarantino mixes in the way that it weaponises the weird corners of 20th-century pop to incredible effect - with a little more indie rock sprinkled in there for good measure. The soundtracks themselves are worth it all alone, but even better when they're overlaid with the show's whiplash dark, funny, romantic atmosphere.
+
+**THE USUAL LIST OF OTHER SUSPECTS WHO DID NOT MAKE THE WRITEUP BECAUSE I AM LIMITED AND FALLEN, NOT BECAUSE THEY WERE WORSE**
+
+**S/T** - *Better Oblivion Community Centre* 
+
+Constitutionally, I am obliged to put a collab album by Phoebe Bridgers and Conor Oberst on here. I don't make the rules, but you understand.
+
+**Assume Form -** *James Blake* 
+
+The singles last year were good, and this album is also... good!
+
+**Immunity** - *Clairo* 
+
+I think there is a lot of hype around this album? Which I missed. Don't worry about it. Listen.
+
+**High Highs to Low Lows** - *Lolo Zouaï* 
+
+Another recommendation, taking the pieces of Drake and putting them back together from a teen girl's perspective.
+
+**The Return** - *Sampa The Great*
+
+*Saamppa!*
+
+"Pasta" - *Angie McMahon*
+
+Very funny and dark, and I identify with cooking bland pasta as the lowest possible point a human can reach.
+
+"Grand Paradise" - *Foxing*
+
+A big old Grand Radiohead Army banger in the venerable tradition.
+
+"Cellophane" - *FKA Twigs*
+
+FKA picks you up with her left pinky and somehow turns you inside out while barely moving a muscle.
+
+"The Hunger" - *San Fermin*
+
+Tegan and Sara only made The Con once, but that doesn't mean that well is dry.
+
+"I Told You Everything" - *Sharon Van Etten*
+
+Etten's in my 'want to like more than I do' list, but this song is shattering.
+
+"People" - *The 1975*
+
+Everyone loved the album, which I do not care about. This song, however, not on the album, fucks.
+
+"Heavyweight Champion Of The Year" - *Nilüfer Yanya*
+
+I don't know anything about her or why I like this song, but I... do!
+
+"America (You're Freaking Me Out)" - *The Menzingers*
+
+The new Menzingers album didn't quite rise to the level for me this year, but this song is quite something.
