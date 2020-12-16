@@ -1,0 +1,27 @@
+---
+title: "Testing Out Distill"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Matt Simmons
+    url: https://github.io/mattsq
+    affiliation: NA
+    affiliation_url: NA
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+# Testing Out Some stuff!
+
+I'm just testing out how this stuff works.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Let's do some math:
+
+```{r}
+plot(rnorm(100), rnorm(100))
+title("It's a plot!")
+```
