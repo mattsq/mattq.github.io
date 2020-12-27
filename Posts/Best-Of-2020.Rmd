@@ -1,0 +1,90 @@
+---
+title: "WEENTYTYWEENTYYTWEENTYTWEENWTY"
+description: |
+  all of the songs go on forever and they never ever end
+author:
+  - name: Matt Simmons
+    url: https://mattsq.github.io
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+It's hard to know how to start this. Last time I wrote one of these, approximately four millennia ago when tribes were still developing large-scale farming and taxation systems in the Mesopotamian basin, I made fun of all the previous introductions that had hysterically invoked the desperate nature of the year before, pointing out that my city was now encircled in actual, literal flames, and that surely we had reached the pinnacle of apocalyptic thinking, and that everything after this was either downhill, or written in ashes. In any case, haha, what a funny little joke that was. More specifically, the sudden and complete change of life as it had been lived changed my listening habits too - most of this used to be listened to on buses and trains, in meditative transport, but there wasn't any more of that, so surely this would change how I wrote one of these, too?
+
+Possibly not, it turns out - I still have a lot of nonsense to say about the year, or things I listened to in the year at any rate. Like many things in 2020, everything is different but nothing is different, and we are all still here, looking at each other through these screens, repeating guff into the void. Even though the venue is different, the rules remain the same: in this house we write about whatever we want to, in whatever order some unspeakable impulse compels us to, and none of it means anything at all.
+
+*Phoebe Bridgers* - **Punisher**
+
+Am I already wearing my colours too obviously when I compare this to **My Beautiful Dark Twisted Fantasy**? Yes, possibly, and that is a weird comparison, I'll grant. Let me put it this way - the best part about following an artist is when they are moving from strength to strength - so that each release, and even each new song, feels like another floor on a tower that could reach any height. That's what it felt like to watch *Kanye* release **MBDTF**, and what **Punisher** is to me, and it's my excuse for 4x of my top five songs on Spotify just being the first four singles off this album, in their release order. Possibly this is peak Bridgers, and maybe it's not, but this is a fucking good album in composition and lyric, and it sounds like a million dollars in a seachest on the bottom of the ocean floor. Every song is great and a carefully aimed arrow-shot at the feelings. Whatever other weird scars 2020 leaves on us, this album will be the colour of it, for me at least.
+
+(NB: I realise *Bright Eyes*' **LIFTED/I'm Wide Awake** is the more correct and direct analogy here, and I will neither use it, nor apologise for failing to do so.)
+
+*No Thank You* - **Embroidered Foliage**
+
+Genetically engineered in a lab to appeal to me and a generation of kids who thought **Clarity** was the better *Jimmy Eat World* album. I'm not sure it holds together completely on every song ('Letter Writing Contest' is a very annoying song reminding me of all the irritating parts of *Hop Along*, and is somehow both one minute and thirteen seconds and also an hour long.) But them guitars are crunchy as hell, and the feelings are sad, so I can't really complain.
+
+*Canadian Softball* - **Awkward And Depressed**
+
+This showed up in a [everynoise.com](http://everynoise.com) emo playlist, and the idea of a parody emo album sounds unbearable, but - inexplicably, this is made by someone who really, really loves emo music to the point of making very faithful turns of basically every angle of the genre; from the obvious classic mallcore hits, to mumbly third wave emo, to a just incredibly specific Pg. 99 parody that I'm not even clear how many people on Earth would get. The commitment to the bit, sonically, is just fucking incredible, and I have no idea who except me, and maybe... two people I know, the album is aimed at. There's a hysterically overwrought Darth Plagueis copypasta in the (accurately rendered) style of early The World Is A Beautiful Place And I Am No Longer Afraid To Die, and... who is for? I mean, it's for me, I think it's hilarious, but you see what I'm getting at.
+
+*Hayley Williams* - **Petals For Armor**
+
+Not one I think I have to do too much evangelism for, I think? Williams takes the hard left into New-Wave-ish vibes of the last Paramore album and pushes it much further out - or in, maybe? A very good pop album in the back half, but my favourite parts are the gnarly, skittery, mouth-noise early parts like 'Simmer' and 'Sudden Desire' that bubble over with tightly-wound feeling.
+
+*Sorry* - **925**
+
+Snappy as fuck indie rock in the vein of the Extremely Cool New York scene of the 2000s,  only made better by their hilarious instance on being completely un-Googleable in both band and album name. In past days, we would have used terrible, forbidden words like An\*\*\*ar, but we have grown old and wise and beyond these turns of phrase. Reminds me a little in pose and execution of a British *The Kills*, but woozier and weirder. One of those bands where I think if they achieved what they really wanted to, they'd probably make something uninteresting, but in their amateur slapping together something beautiful and specific has emerged.
+
+*Waxahatchee* - **Saint Cloud**
+
+Long in the camp of *Mitski*, female-led 2010s indie rock bands Who I Think I Should Like But I Don't, either this album has risen out of the category (or, more likely, I have finally turned my lazy ears to properly pay attention.) It's just good man! It's beautiful and sad and straightforward, and and when she says "West Memphis is on fire in the light of day", I *felt that*, even though I have never driven out of Tennessee at daybreak, or ever been in Tennessee at all, or am I ever likely to be. It's possible that this album is sticking its finger in the Jackson Browne-shaped childhood nostalgia hole in my side, and that's just fine.\
+
+*San Fermin* - **The Cormorant I & II**
+
+Really out here to keep the dream of 2005-era twinkly big-band indie pop alive, so I realise this album is my own personal version of *The Darkness*' **Permission To Land**, in that is a well-executed but unnecessary throwback. But it's so good! All these songs are so beautiful! And Twinkly! If you're not sold in on a style that *Sufjan Stevens* abandoned almost a decade ago, I can't blame you, but in the interim San Fermin will be here, just cranking it out for us.\
+
+*Holly Herndon* - **PROTO**
+
+This song probably should have made it on to my list last year, but that's the problem with drawing these things in at arbitrary times before the year is actually, you know, done. A huge and weird accomplishment that feels beamed in from the computers who will replace us years from now, I think of this album as a companion piece to the TV show Devs, whose jittery, autogenerated and weirdly glistening aesthetic feels similar. I think 'Extreme Love' probably is the best test here: if you find it annoying, weird and earnest, you may exit by the rear doors and never think about it again. But if you, like me, love its weirdo superorganism aesthetic, then you are in for a Ride. I'd assumed fans of *Bjork* would like this, but in my experience they don't, which only goes to reaffirm that I know nothing about anything worth knowing about.
+
+**THE MANY OTHER THINGS, ALL OF THEM GOOD BUT NONE OF THEM LONG(-WRITTEN)**
+
+*Soccer Mommy* - **colour theory**:
+
+I don't have anything extensive to say here: you're either sold in or you're not on the nostalgia-tugging melancholy with guitars. Do I understand the visual aesthetic? No. Is it relevant to how good the album is? Absolutely not at all.
+
+*Pinegrove* - **Marigold**:
+
+Possibly Pinegrove are Problematic, and if I am cancelled for liking this album, very well, I am cancelled, but I feel like they came to terms with the fucked up power dynamics of being a cult favourite band as well as anyone could, and they're still making Very Good Albums.
+
+*illuminati hotties - **Kiss Yr Frenemies:***
+
+This year's rewards from noodling in the mire of Discover Weekly - very funny and direct power pop guitar times.
+
+*Milk Teeth -* **S/T:**
+
+I am obliged to put one of these on here, and I regret nothing, because it fucking rips.	
+
+*The Weather Station* - 'Robber': 
+
+There's something wonderful about deep fandom, in the experience of really just obsessing over all the contours of a pre-album single, its music video, the commentary - this is a good song, and an exciting mutant development in tWS sound. Possibly the upcoming album will be a big miss, but we'll always have this, and Lindeman's amazing broken mirror suit.
+
+*Black Country, New Road* - 'Sunglasses': 
+
+I have no idea who these guys are, and they've released exactly 2 songs ever, but this song hits like the best mid/late-1990s posthardcore noodling - weird monologues, time signature changes and freak-out crescendos with horns.
+
+*The New Pornographers* - 'Falling Down The Stairs Of Your Smile':
+
+ I'm approximately five years too young to be a tNP stan (even though I love Neko Case?) but this is a tight as hell power pop song, and the title is very good.
+
+*Bassekou Kouyate/Ngoni ba* - 'Jonkoloni' & *Rokia Traore*- 'Ladia': 
+
+Usually my music listening has three distinct phases - commuting, working and around the house. Since COVID, the latter two withered away, which practically meant I listened to a lot more Malian blues, afropop and stuff like this. It is not a problem, because it's all great.
+
+*Ethan Gruska* - 'Maybe I'll Go Nowhere': 
+
+I like to think of this as a sequel to *Mosey Sumney*'s 'Lonely World', even though it isn't in any way.
+
+*Johanna Warren* - 'Twisted':
+
+Warren is a big weirdo, and that plus a chugging guitar line is all I really need in life.
