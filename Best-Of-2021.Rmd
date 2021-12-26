@@ -1,0 +1,54 @@
+---
+title: "ONETWENTYONETTWENTYONETWENTY"
+description: |
+  a thousand songs and they're still singing -
+author:
+  - name: Matt Simmons
+    url: https://mattsq.github.io
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+Not as long a list this year, for the obvious reasons (the continuing, grinding slow-motion apocalypse of the last two years) and the obvious-to-those who know me reasons, but still, time passed through us in the awful, senseless way that it is wont to, and so there was music, because of course there was. What else would there be? Here at the end of the world, where we compete to see which emergent consequence of our global system will be the Great Filter, there will still be melodies, and rhythmic sounds, and voices on the wind. We deserve at least that, I think, if nothing else.
+
+As always, the rules of the day are that there are no rules. Are all these from this year? No. Are they the *best* albums and songs of the year? God, almost certainly not. Is there meaning, purpose, order? You'll be waiting quite a while for those, but you have been waiting all this time, so I imagine you will continue to wait, hopeful, for something immanent that will come forth *soon*, any minute now, just you wait -
+
+*Samia* - **The Baby**
+
+**The Baby** snuck up on me - drifting off the back of *Phoebe Bridgers,* I was initially suspicious and dismissive, casting it as a more commercial a literal take on the same thing, a vanity project by a daughter of U.S. entertainment mid-royalty. But it lingered around, inescapable, in a way that makes much more sense now that I know she's the lead vocal on my favourite **San Fermin** song from last year ('The Hunger'), the composer of which described her as having "a mix of I-don't-give-a-shit energy and vulnerability", which I think more or less wraps up the appeal, harder-edged and more at ease in the body than Bridgers, but still very much in the same vein (Very Sad, Very Online Women Make Indie Rock?) Ultimately it's just *listenable,* and wore long holes in my Spotify most played by the end of the year.
+
+*The World Is A Beautiful Place And I Am No Longer Afraid To Die* - I**llusory Walls**
+
+There are basically two modes of masterpiece, in my mind - one where you more or less burst fully-formed into public consciousness (maybe you make one preparatory record, testing the ground, but I think of this as basically the same mode) and another where you *accrete* - slowly gaining the pieces that will one day come together properly in a Very Good Record, where maybe you let go of some of the sophomoric 'difficulties' your early work was wedded to and the whole thing comes together in a way that re-writes the whole history of your work into a journey towards *this thing*. Anyway I guess you can tell which **Illusory Walls** falls into (in my mind.) Also, *it fucking rips*. It just goes extremely hard, building huge winding masses of proggy posthardcore that lance out paint-stripping guitar breakdowns.
+
+*Black Country, New Road* - **For The First Time**
+
+I guess you could cynically call this 'revivalist', but I prefer to enjoy the scene of young people encountering, absorbing and remixing the 'post' strands of the late 90s and early 00s into a new, British thing, with inexplicable *Phoebe Bridgers* references. (They do make a joke about the 'world's second-best Slint tribute act', so they know what's going on.) Literate, twisty, full of traditional instrumentation and abrupt breakdowns, I always appreciate when someone reaches deep into my listening history and synthesises a new band out of it - Sunglasses was an abrupt shock like that ("Wait, people can do that, still?") If you didn't enjoy wavering young men telling strange and menacing stories over dissonance the first time around, you won't like it any better here, but, but, but - 
+
+*Cassandra Jenkins* - **An Overview On Phenomenal Nature**
+
+The weird-LA diffuse mysticism and sliding ambient parts here give me the warm, familiar sensation of being in the presence of my old friend Cas Q explaining literary theory and cartomancy in the same breath (even though this is absolutely not the music she'd make.) That, and reading We Tell Ourselves Stories In Order To Live and hanging out on the West Coast inside Joan Didion's brain (RIP): enjoying the weather in spite of yourself and being fascinated, enamoured by all the weirdoes but still having a bit of a bad time because of some existential pain you have carried here inside yourself, still. Not depressed but wounded, profoundly and endearingly weird.
+
+*Can't Swim* - **Change Of Plans**
+
+About midway through the breaking of the emo wave on the shores of popular culture in the mid-2000s, there were about a billion of these bands, faithfully filling up the credits scenes of teen thrillers that you definitely did not go to for the actual movie-watching. Big Rock, is what I'm saying, with those smooshy overproduced guitars, lots of keyboards added in during production that the band probably didn't go anywhere near, and a lot of feelings. Also probably a fair bit of misogyny, yes. Anyway, that's all a long-winded way of saying that this is, in many ways more of that, and I cannot explain to why I like any specific one of these bands (and why I hate many more of them) except that this just good bubblegum stuff, with lines like 'not enough hours of darkness to sleep off the guilt', so that's the sort of thing you're going for here, and the guitars will do exactly what you need them to do when some intractable emotional knot in your life *requires* undirected rage in the form of music.
+
+*illuminati hotties* - **Let Me Do One More**
+
+Faithful readers of these missives will know that this sort of thing is required by the Constitution Of End Of Year Lists as promulgated in (2005, I think?) Apparently people are calling it 'bubblepunk' now, which, sure. I'm not entirely surely I actually expected this sort of thing out of the original **Kiss Yr Frenemies,** which had some moments of punk exuberance but was mostly intimate and heartfelt. *Illuminati* have been dialling it way up since then, but, it is a shot of sugar directly into the veins, very funny and heartfelt, and has great song titles like 'MMMOOOAAAAYAYA' and 'Joni: LA's No. 1 Health Goth'. The squeaky riotgrrl vocal affect takes a minute to get used to, but you should give it that minute, is what I'm saying.
+
+*Vince Staples* - **S/T**
+
+In the same vein of constitutional requirement, *Staples* drops it and I put it here. I don't make the rules, you don't make the rules, he makes the rules. It's always so good, slick and neurotic and clever, with a deep and abiding groove. I don't know what else to tell you at this point. Have you listened to **Summertime '06**? Have you listened to **Prima Donna**? Have you listened to **FM!**? Get the hell out of here and don't come back until you have, is what I'm saying.\
+
+*The Weather Station* - **Ignorance:** Annoyingly, I was right about 'Robber' being a misdirection (still a humungous song, though). The rest is a bit too far into album rock for what I need out of *tWS* but it is well regarded this year!
+
+*Jimmy Eat World* - **Clarity (The Phoenix Sessions) / Futures (The Phoenix Sessions):** There's no new content here, except possibly the welcome sanding-off of polish from **Futures**, but **Clarity** is still exactly as good as you remembered it.
+
+*Lizzie No* - 'Birthday Party': Captures exactly how I feel at house parties, which is to say: terrible, conflicted, still powerfully compelled to be there at the end of the night. Why *am* I never having any fun?
+
+*Carly Cosgrove* - 'Munck': Feels very much like a XXX song, and that's fine.
+
+*John K Samson* - 'Fantasy Baseball at the End of The World': At the end of this year, this is probably still a little laced with that Trump Bad Feeling to elevate past its moment, but I do hope he got out there.
+
+**The Sound of Afrobeat / Boogaloo / Latin Jazz / Malian Blues**: Not a song or album, technically, but I feel I should recognise the combined contributions of these playlists, which got us through quite a bit.
