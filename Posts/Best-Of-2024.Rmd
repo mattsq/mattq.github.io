@@ -1,0 +1,264 @@
+---
+title: "TWENTYFOUR? FOUR? TWENTY? FOUR?"
+description: |
+  how many years has it been? how many? how long has it been?
+author:
+  - name: Matt Simmons
+    url: https://mattsq.github.io
+date: "`r Sys.Date()`"
+output: distill::distill_article
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+I fell off, I realise. I apologise - you have all, *I know*, been
+waiting anxiously for me to write a bunch of stupid nonsense about
+marginalia of the year in a long winded way. Some things happened! The
+world ended (and then it started again.) Everything is different,
+everything is the same, and so here we are again, on the same round,
+staring fruitlessly at the year, willing something good to come of it. 
+
+Because my brain is fried, and my Spotify is all, I believe the term
+used was ‘Relaxing Babycore’ and no longer my own, this list can no
+longer be a list of music, precisely. That’s OK, though - like all
+changes, it’s really a return. You don’t remember how this used to be
+just a big old list of *stuff*? We’re going back there. You thought the
+absence of rules was bad before, now we’re just going to write about
+whatever - movies, TV shows, podcasts, mobile games, ectetera. All the
+culture that sluiced through my cooked brain raising a three-year old.
+My taste is awful, but hasn’t it always been? Haven’t you always been
+here, with me, exhorting the worst shit ever? Don’t think too hard about
+it. Sit down. Begin.
+
+**Dadandadan (Anime, Yukinobu Tatsu, 2024-):** Maybe I am a big old
+chaser of what is immediately cool, and yeah, sure, did I just jump on
+the latest Science Saru thing like everyone else, probably? Let me try
+to convince you, too-cool audience member in my head. Dandadan slaps. It
+is funny. It’s dark. It’s hopeful. It’s visually arresting and weird
+while also still, yes, basically being a shonen about kids getting weird
+powers and fighting crazy monsters. There’s a fun, touching romance
+about two believably spiky and odd teenagers in the middle of it! Look,
+cool guy, if you’re not into it, you’re not, but the hard pivot from two
+kids fighting a giant ballet ghost with magical hair into a soul-searing
+lance of a portrait of motherhood and loss might still pin you to the
+ground in tears over your karaage don like it did to me.
+
+**GNX (Album, Kendrick Lamar, 2024):** I am no longer ‘tuned in’. I am
+no longer ‘with the culture’. I was never with the culture! But this
+fucking album slaps still though, lasering in through the upper
+atmosphere to melt our brains right up at the last minute of the year.
+Strip back (most) of that prog albumcore stuff and monologues. Yell
+*MUSTARDDD*! Like everything now, it is tainted with the feeling of a
+moment past - I walk around the house, yelling catchphrases at no one,
+imagining an audience in a broken-down sharehouse with weird paintings
+up the wall yelling it back to me, but I’m still here. The past stays
+where it is.
+
+**Seed Of A Seed (Album, Hayley Heynderickx, 2024):** Mostly here on the
+strength of ‘*Gemini*’, groaning weapon of a song that slices through in
+waves of cello as the mirror looks back at you, reminding you that you
+were once someone else, but now that person stares back at you over the
+wreckage of everything left behind. The rest of the album is also good
+and dark and weird and plucky! But Gemini is one of the few remaining
+elements of this kind of folk that has not been evened out into
+porridge.
+
+**Every Noise At Once** **(Website, Glenn Mcdonald, ???-2024)**: Funny
+to put this on here in a way, since you could probably blame it for
+hollowing out this very process - it turned out there was no need really
+to carefully attend to albums or painfully follow music press when you
+could simply subscribe to ‘*The Pulse of Midwest Emo*’ and mostly always
+hear new and interesting things in exactly the groove that you cared
+about with no effort. So I don’t want to valorise it, now dead, too
+much - but when it worked it was genuinely magical, like standing in
+Borge’s Library and being able to open to any page of musical style.
+Some weird alchemy of automation and curation that allowed you to peer
+into the weirdest corners of cultural production in a way that no
+xgboost recommender will ever allow you to. Rest In Peace, everynoise.
+Like with everything else, we will need to relearn how to be ourselves
+in the wreckage of algorithm culture accelerated to the point of total
+disintegration.
+
+**Dumb Gacha Games (Mobile Games, Mostly Hoyoverse, 2020-):** It brings
+me no joy to say that although many of these games are dumb as hell
+brain candy, where the gameplay and vibes are steamrolled by a mess of
+insane pull nonsense (**Exuvia**) or just… not that interesting
+(**Wuthering Waves**, **Honkai Star Rail**) some of them kind of rule,
+also in a dumb way. I am too time-poor to be able to sit down at a
+device and play any kind of open-world game, but wandering around
+**Genshin Impact** is genuinely… just a good time? Don’t worry about the
+mechanics, just be me and wander around looking at all the crazy stuff
+(giant cyclone mountain! Inverted Mirror World Tree! Valley of Giant
+Mushroom Tree Jungle!) Evoking awe and wonder on a mobile phone seems
+like a hard stretch, so I Have To Hand It To Them. And **Zenless Zone
+Zero** is actually pleasingly crunchy and creative in its own way. All
+of these games peter out as the FtP mechanics start to tilt towards
+“what if you just gave us a little money though?” But both Genshin and
+Zenless have surprisingly long runways before you get anywhere near that
+point.
+
+**Gundams (Anime, Yoshiyuki Domino + Many Others, 1979-2024):** In 2023,
+my friends finally allowed me to subject them to Lancer, a TTRPG I had
+been staring longingly since I discovered [itch.io](http://itch.io) back
+in 2020. In the process of preparing, I realised I didn’t really know
+enough about mecha at all - some Neon Genesis, too many hours on
+BattleTech (2018), some half-remembered memories of playing Mechwarrior
+on a friend’s computer somewhere in the 2000s didn’t really add up to
+any kind of grounding in the genre. So, here now, a lot (more than I
+think I realised I’d done) of watching later, is my current vaguely
+ordered (!) canon of Gundams I Have Watched, a series which is the Bond
+Movies for Japanese anime, a statement I will not elaborate on:
+
+1.  *Hathaway*: Rules, evokes **Patlabor 2**, totally incomprehensible
+    if you have not watched everything else.
+
+2.  *Thunderbolt:* Almost not even a Gundam, like a Bond movie that
+    snuck in a Le Carre novel instead. Completely dialled into the
+    actual horror of the concept - most Gundams tell you war is bad, but
+    this one chops people’s limbs off one at a time until you believe
+    it. Has a sequel which you probably should pretend doesn't exist. 
+
+3.  *08th MS Team*: Mangles the formula just enough to be interesting.
+    Gundams are better when they are heavy and weird and the robots
+    lurch dangerously and unreliably above everything.
+
+4.  *Iron-Blooded Orphans*: Fascinating in its premise, and some of the
+    characterisation is fun in an orthogonal way - “Here’s my best
+    friend who I will die for and who will lead us to freedom. He is a
+    fucking psychopath, by the way.” I ran out of steam once they were
+    mostly out of orbit, which seems to be where many Gundams lose me,
+    even though I canonically believe that Space Goes Crazy.
+
+5.  *Unicorn*: I did actually finish this one, which teeters on the edge
+    of actually almost being good in a frustrating way, and is laconic
+    almost to the point of parody. I think it expects you to be so
+    familiar with the generic Gundam tropes that it feels no need to
+    really elaborate on them when they are presented, which I suspect…
+    actually… rescues it a little? Probably benefited from immediate
+    contrast with SEED, a nadir which anything would look up from. The
+    best example of a purely canonical style, although that’s faint
+    praise.
+
+6.  *Stardust Memory*: Not exactly good, but kind of fascinating and
+    weird and very obviously a Frankenstein’s Monster.
+
+7.  *Turn A*: I haven’t really watched enough of this to pass real
+    judgement, but I do respect the game of convincing a studio to
+    front-load a pastoral-industrial coming-of-age story into what is
+    ostensibly Giant Robot Shit. I was initially wary of the concept for
+    that exact reason, but I should not have been.
+
+8.  *Char’s Counterattack*: I have not finished this, so I cannot
+    broadly comment on it, but - the scale and viciousness of it is
+    interesting - hell yeah, drop a nuke (asteroid) on a city in the
+    first act. Do it. I always want to like the scale and detail of
+    older Gundam but I have the patience of the three-year old I hang
+    out with all the time, sadly.
+
+9.  *Zeta*: I did want to like this, but I did not finish it, mostly
+    because it seems to drag on forever in the way the worst Gundams do
+    (wait! They’re still being chased by the ship!) and Kamile is a big
+    weirdo who is clearly the/a prototype for Shinji Ikari: like many
+    things in the Gundam when viewed in reverse, a frustratingly
+    unexamined landmine of psychological horror.
+
+10. *The Witch from Mercury*: I wanted to like this and finish this, but
+    both the English and Japanese voice acting of Sulleta make me
+    completely insane.
+
+11. *00*: Too Saturday morning cartoons for me to hang with for more
+    than episode or too. I don’t think it’s bad at what it’s trying to
+    do, I just don’t care at all about what that is.
+
+12. *SEED:* Horrible! Like an awful 2000s webcomic come to life! Send it
+    to Gundam Hell!
+
+**Gnomon (Novel, Nick Harkaway, 2017):** Picked this one up midway
+through a reading jag this year - at first you think you understand
+what's going on here. Classic total-surveillance AI future society
+stuff! A mysterious murder! We know all about this, right? There's going
+to be a Flaw In the System our Plucky Heroine will have to Challenge The
+System. Then it starts dropping progressively more insane interstitial
+stories - sex-crazed Greek financiers haunted by god-sharks, North
+African alchemists investigating impossible murders in the Roman
+republic, and *weirder stuff than that*. By halfway through, you're
+beginning to wonder - which of these stories is the real one? What the
+hell will Harkaway drop next? Right up on the line of incomprehensible,
+but on the right side of it, amazingly.
+
+**There is no Antimimetics Division (Novel, qntm, 2021)**: In typical
+fashion, there’s a whole cultural thread here (SCP) that I have landed
+in the middle of with no real understanding. I annihilated every qntm
+book I could find in short order after this to diminishing returns, but
+this is still the best one, a collapsing junkpile of short stories about
+horrors you can’t see and will never remember that orbits around and
+around its premise until it achieves coherence and escape velocity in a
+way you don’t realise it will. Is it the 2011 **Dr Who** villains The
+Silence stretched out into a novella? Yes! Does that kind of rule? Also
+yes!! Can also recommend **Valuable Humans In Transit** if like me
+you’re still itching for more of this feeling once it’s done. 
+
+**CAIN (TTRPG, Tom Bloom, 2024):** Getting to play a roleplaying game
+you hyperfixate on within even six months of discovering it is a miracle
+(c.f. previous comment about Lancer) and I have not been gifted that
+miracle, but this still deserves a place here for entirely colonizing my
+brain for a solid three weeks in a way probably only Blades did before
+it. I had been desperately cobbling together **Jujitsu Kaisen** The
+Roleplaying Game out of spare parts (shouts to **My Friends Are My
+Strength**, and entirely workable PbtA game for that) and then Bloom
+just… went… and… did it. The vibes are immense - psychic cannon fodder
+on a murder investigation that ends in a superpowered bloodbath!! I am
+extremely excited to inflict psychic damage on my friends through this
+game (metaphorically and ludically.)
+
+**Frieren Beyond Journey’s End (Anime, Kanehito Yamada, 2023-):** More
+zeitgeist-chasing from this idiot, I’m afraid, but actually! Actually!
+“What happens to the elf in the adventuring party when the adventure is
+over, all her friends grow old and die, and she’s still just… here?”
+actually rules. I am a sucker for weird marginalia
+what-happens-after-or-before-or-inbetween in the way that all of us
+freaks raised on fanfiction are, and this stirs a bunch of that into a
+pot with some gentle sprinklings of shonen nonsense (very good) but is
+generally fine to just… take it’s time. Did it take them three months to
+cross a mountain? Yes! Sometimes that do be how it is! It’s good to
+(metaphorically) feel the ground under your feet in this sort of thing.
+That’s where the good stuff is.
+
+**Delicious In Dungeon (Anime, Ryoko Kui, 2024-):** Overtuned to this
+because of how roleplaying-game-brained I have become, but also an
+excellent companion piece to Frieren. The isekai thing I find generally
+insufferable, but I think maybe the heart is found here, in a sly
+sideways glance at the tropes of the genre, strained through the filter
+of something completely different (cooking shows, in this case.) A
+fantasy show which is actually a cooking show is the kind of peak anime
+premise, but it’s made by someone who actually clearly thinks a lot
+about roleplaying games and dungeons in an earnest and interested way. A
+very good hang!
+
+**Monsieur Spade (TV Show, Scott Frank & Tom Fontana, 2024):** Does not
+stick the landing, but I think that’s actually in keeping (go back and
+watch how the Big Sleep ends.) I have a special place in my heart for
+moody 7/10 European big-swing premise shows (shouts to Fortitude, I
+don’t know why they made three seasons of you but hell yeah.) Do I
+secretly yearn to live in a weird, cruddy Mediterranean country town
+with great views? I will not shy from this ambition. But the premise
+here is so crunchy and odd that I feel very fondly about it. More shows
+should be like this (specific, precise, regional, obtuse) but they will
+not, sadly.
+
+[***Honorable Mentions I Do Not Have Brain To Write
+About:***]{.underline}
+
+-   **The Gentlemen (TV Show, Guy Ritchie, 2024)**
+
+-   **Slice and Dice (Mobile Game, Tann, 2021)**
+
+-   **Laya’s Horizon (Mobile Game, Snowman, 2023)**
+
+-   **Peglin (Mobile Game, Red Nexus Games, 2021)**
+
+-   **Hades (Mobile Game, Supergiant Games, 2020)**
+
+-   **This Is How You Lose The Time War (Book, Amal El-Mohtar/Max
+    Gladstone, 2019)**
